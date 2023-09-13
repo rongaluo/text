@@ -1,2 +1,4 @@
 print（helloworld4）
 nihao!
+woshinidie!
+woshiniba!
